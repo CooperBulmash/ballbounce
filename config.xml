@@ -5,7 +5,7 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
 >
     
-    <gap:plugin name="org.apache.cordova.media" version="0.2.13" /gt;
+    <gap:plugin name="org.apache.cordova.media" version="0.2.13" />
 <gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
 <icon src="img/robohead.png" />
 
