@@ -3,7 +3,13 @@
     xmlns="http://www.w3.org/ns/widgets"
     xmlns:cdv="http://cordova.apache.org/ns/1.0"
     xmlns:gap = "http://phonegap.com/ns/1.0"
->wget http://www.seattlecoderdojo.com/wp-content/uploads/2015/05/robohead.png
+>
+    
+    <gap:plugin name="org.apache.cordova.media" version="0.2.13" /gt;
+<gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
+<icon src="img/robohead.png" />
+
+
     <name>Sound n' More</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
